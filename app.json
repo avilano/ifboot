@@ -1,1 +1,7 @@
-heroku buildpacks:set heroku/nodejs
+{
+"buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
