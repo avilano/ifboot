@@ -3,10 +3,6 @@
   "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/avilano/ifboot",
   "keywords": ["node", "express", "slack"],
-  "buildpacks": [
-      {
-        "url": "heroku/nodejs"
-      }
-    ]
+  
 
 }
